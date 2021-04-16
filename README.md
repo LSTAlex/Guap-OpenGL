@@ -1,1 +1,2 @@
-# Guap-OpenGL
+Создать приложение, выводящее объемный объект средствами Open GL.
+Среда программирования – Visual C++ или QT Creator c MinGW и Open GL.
